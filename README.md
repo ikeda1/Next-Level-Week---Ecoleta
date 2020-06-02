@@ -8,6 +8,11 @@ A ideia é criar um marketplace para coletar resíduos. As empresas cadastram os
 
 # Resultado
 # Dia 1
-Desenvolvimento da home page do site.
+Finalização do desenvolvimento da home page do site. 
 
 <img src="Resultado/dia_01.png">
+
+# Dia 2
+Início do desenvolvimento da página de cadastramento de pontos de coleta
+
+<img src="Resultado/dia_02.png">
