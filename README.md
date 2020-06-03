@@ -16,3 +16,12 @@ Finalização do desenvolvimento da home page do site.
 Início do desenvolvimento da página de cadastramento de pontos de coleta
 
 <img src="Resultado/dia_02.png">
+
+# Dia 3
+Finalizado a página de cadastramento de pontos de coleta, a página para pesquisar pontos de coleta e a página de resultados.
+
+<img src="Resultado/dia_03_1.png">
+
+<img src="Resultado/dia_03_2.png">
+
+<img src="Resultado/dia_03_3.png">
