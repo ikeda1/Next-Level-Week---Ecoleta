@@ -25,3 +25,6 @@ Finalizado a página de cadastramento de pontos de coleta, a página para pesqui
 <img src="Resultado/dia_03_2.png">
 
 <img src="Resultado/dia_03_3.png">
+
+# Dia 4
+Refeita a estrutura de pastas e criação do servidor local.
